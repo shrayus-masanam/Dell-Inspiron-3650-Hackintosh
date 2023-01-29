@@ -6,7 +6,7 @@ An OpenCore EFI folder for a Dell Inspiron 3650 OEM
 ## Specs for this build
 
 **CPU:** Intel Core i7-6700 3.4 GHz Quad-Core Processor<br>
-**Memory:** 16 GB (2 x 8 GB) DDR4-2133 CL15 Memory<br>
+**Memory:** 16 GB (2 x 8 GB) DDR3-2133 CL15 Memory<br>
 **Storage:** Samsung 860 Evo 250 GB Solid State Drive<br>
 **GPU:** AMD Radeon R9 360 OEM (2GB)
 
